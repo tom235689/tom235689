@@ -1,94 +1,180 @@
 <div align="center">
 
-# Full Stack • AI • Blockchain Developer
+# Full Stack & AI Developer
 
-Building intelligent applications, scalable platforms, and decentralized systems.
+### AI Applications • Full Stack Systems • Blockchain Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Application+Builder;LLM+Integration+Engineer;Blockchain+%26+Web3+Developer;Open+Source+Contributor" />
+[![Email](https://img.shields.io/badge/Email-clever.tom926%40gmail.com-blue?style=for-the-badge)](mailto:clever.tom926@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 💻 Full Stack & AI Developer with 7+ years of professional experience
-* 🤖 Specialized in LLM integration, AI agents, RAG systems, and intelligent automation
-* 🌐 Building scalable web applications from frontend experiences to distributed backend services
-* ⛓️ Experienced in blockchain infrastructure, smart contracts, DeFi ecosystems, and Web3 integrations
-* ☁️ Passionate about cloud-native architectures, DevOps practices, and high-performance systems
-* 🚀 Delivering production-ready solutions across AI, SaaS, fintech, and blockchain domains
-* 📚 Continuously exploring emerging technologies and open-source innovation
+Full Stack and AI Developer with 7+ years of experience building scalable web applications, AI-powered tools, and blockchain systems from concept to production.
+
+Experienced in delivering end-to-end solutions across frontend, backend, mobile applications, AI integrations, and blockchain platforms.
+
+Specialized in LLM-powered applications, OpenAI API integrations, smart contract development, and cloud-based deployments.
 
 ---
 
-## 🧠 Expertise
+## Core Competencies
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### AI & LLM
+### AI / LLM Integration
 
 * OpenAI API
 * LangChain
 * Prompt Engineering
-* RAG Pipelines
 * AI Chatbots
-* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* LLM Integration
 * Vector Databases
 
-</td>
-<td valign="top" width="33%">
-
-### Full Stack
+### Full Stack Architecture
 
 * React
 * Next.js
-* TypeScript
 * Node.js
-* Express
-* GraphQL
+* TypeScript
 * REST APIs
+* GraphQL
+* Microservices
 
-</td>
-<td valign="top" width="33%">
-
-### Blockchain
+### Blockchain & Web3
 
 * Solidity
-* Ethereum
+* Smart Contracts
 * Ethers.js
 * Web3.js
 * DeFi
-* NFTs
+* NFT
 * IPFS
-
-</td>
-</tr>
-</table>
+* Ethereum
+* Polygon
 
 ---
 
-## 🛠 Languages & Tools
+## Professional Experience
 
-<div align="center">
+### Senior Full Stack & AI Developer
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,php,java,cs,cpp" />
+**2024 – Present**
 
-<br/><br/>
+* Built AI-powered Telegram bots with cryptocurrency swap functionality
+* Integrated OpenAI APIs to enable natural language interactions
+* Developed full-stack AI chat applications with real-time streaming responses
+* Integrated smart contracts into web applications using Web3.js and Ethers.js
+* Implemented crypto payment systems with MetaMask and WalletConnect
+* Delivered solutions for AI, DeFi, and SaaS platforms
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,express,tailwind,redux" />
+### Senior Full Stack Developer
 
-<br/><br/>
+**2022 – 2023**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,aws,azure,git,github" />
+* Optimized backend APIs using async/await patterns
+* Reduced socket connection overhead on backend infrastructure
+* Improved Angular and TypeScript application performance
+* Migrated legacy Bootstrap/jQuery systems to TypeScript
+* Containerized .NET Core services with Docker
+* Deployed applications to Azure Kubernetes Service (AKS)
 
-</div>
+### Full Stack & Blockchain Developer
+
+**2019 – 2021**
+
+* Built blockchain-based archival platforms using Ethereum and IPFS
+* Developed Solidity smart contracts
+* Created NFT solutions on Polygon using ERC-721
+* Built mobile applications using Xamarin
+* Developed web applications using Angular and React
+
+### Full Stack Developer
+
+**2018 – 2019**
+
+* Led UI/UX redesign initiatives
+* Developed interactive tutorials and notification systems
+* Implemented split-payment functionality
+* Established CI/CD pipelines
+* Improved payment verification systems
 
 ---
 
-## 📈 GitHub Stats
+## Technical Skills
+
+### Languages
+
+```text
+JavaScript • TypeScript • Python • Solidity • Rust
+Go • PHP • C# • Java • C/C++
+HTML • CSS • SASS
+```
+
+### Frontend
+
+```text
+React.js • Next.js • SolidJS • Vue • Angular
+React Native • Redux • Tailwind CSS
+MUI • Framer Motion • Vite
+```
+
+### Backend
+
+```text
+Node.js • Express • Flask
+Laravel • CodeIgniter
+REST APIs • GraphQL • Socket.io
+```
+
+### AI & ML
+
+```text
+OpenAI API
+LangChain
+RAG Pipelines
+Prompt Engineering
+AI Chatbots
+LLM Integration
+Vector Databases
+```
+
+### Blockchain
+
+```text
+Ethereum • Solidity • Hardhat
+Web3.js • Ethers.js • IPFS
+ERC-20 • ERC-721
+DeFi • NFT • Polygon
+```
+
+### Databases
+
+```text
+MongoDB
+PostgreSQL
+MySQL
+SQLite
+Prisma ORM
+```
+
+### DevOps & Cloud
+
+```text
+Docker
+Kubernetes (AKS)
+AWS
+Azure
+Git
+GitHub Actions
+CI/CD
+Postman
+```
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -100,17 +186,7 @@ Building intelligent applications, scalable platforms, and decentralized systems
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tom235689&theme=flat&no-frame=true&margin-w=10&row=2&column=4" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
+## GitHub Activity
 
 <div align="center">
 
@@ -120,33 +196,8 @@ Building intelligent applications, scalable platforms, and decentralized systems
 
 ---
 
-## 🐍 Contribution Snake
-
-> Enable GitHub Actions in this repository and add the contribution snake workflow to activate the animation.
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tom235689/tom235689/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## ⚡ Current Focus
-
-* Artificial Intelligence & Autonomous Agents
-* Retrieval-Augmented Generation (RAG)
-* Blockchain Infrastructure
-* Smart Contract Development
-* Cloud-Native Systems
-* Kubernetes & Distributed Architectures
-* High-Performance Backend Engineering
-* Open Source Contributions
-
----
-
-<div align="center">
-
-### Building intelligent software that scales.
+Building AI-powered applications, full stack platforms, and blockchain solutions.
 
 </div>

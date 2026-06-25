@@ -84,12 +84,12 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 ### AI & LLM
 
 <img src="https://skillicons.dev/icons?i=python" />
-<br><br>
+
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM_Integration-6E40C9?style=for-the-badge)
-<br><br>
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux,vite" />

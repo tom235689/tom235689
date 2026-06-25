@@ -126,6 +126,7 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,git" />
 </div>
+
 ---
 
 <div align="center">

@@ -4,10 +4,6 @@
 
 ### Full Stack & AI Developer • 7+ Years of Professional Experience
 
-[![Email](https://img.shields.io/badge/Contact-clever.tom926%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:clever.tom926@gmail.com)
-
-<br>
-
 AI • Full Stack • Web3 • Cloud Infrastructure
 
 </div>

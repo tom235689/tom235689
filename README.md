@@ -84,68 +84,48 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 ### AI & LLM
 
 <img src="https://skillicons.dev/icons?i=python" />
-
 <br><br>
-
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM_Integration-6E40C9?style=for-the-badge)
-
 <br><br>
-
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux,vite" />
-
 <br><br>
-
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php" />
-
 <br><br>
-
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,rust,php,java,cs,cpp" />
-
 <br><br>
-
 ### Blockchain & Web3
 
 <img src="https://skillicons.dev/icons?i=solidity" />
-
 <br><br>
-
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge)
 ![BNB Smart Chain](https://img.shields.io/badge/BNB_Smart_Chain-F3BA2F?style=for-the-badge)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge)
 ![TRON](https://img.shields.io/badge/TRON-FF060A?style=for-the-badge)
-
 <br><br>
-
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge)
 ![ERC20](https://img.shields.io/badge/ERC--20-555555?style=for-the-badge)
 ![ERC721](https://img.shields.io/badge/ERC--721-555555?style=for-the-badge)
-
 <br><br>
-
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
-
 <br><br>
-
 ### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,git" />
-
 </div>
-
 ---
 
 <div align="center">

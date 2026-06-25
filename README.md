@@ -2,9 +2,13 @@
 
 # Building AI Applications, Full Stack Platforms & Blockchain Systems
 
-### Full Stack & AI Developer • 7+ Years Experience
+### Full Stack & AI Developer • 7+ Years of Professional Experience
 
 [![Email](https://img.shields.io/badge/Contact-clever.tom926%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:clever.tom926@gmail.com)
+
+<br>
+
+AI • Full Stack • Web3 • Cloud Infrastructure
 
 </div>
 
@@ -24,6 +28,7 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🤖 AI & LLM
@@ -57,14 +62,16 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 ### ⛓ Blockchain
 
 - Solidity
+- Smart Contracts
 - Ethereum
 - Ethers.js
 - Web3.js
-- IPFS
 - DeFi
 - NFT
+- IPFS
 
 </td>
+
 </tr>
 </table>
 
@@ -74,27 +81,56 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 <div align="center">
 
-### Languages
+### AI & LLM
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,php,java,cs,cpp" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Integration-6E40C9?style=for-the-badge)
 
 <br><br>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux,vite" />
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php" />
 
 <br><br>
 
-### Blockchain
+### Languages
 
-<img src="https://skillicons.dev/icons?i=ethereum" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,rust,php,java,cs,cpp" />
+
+<br><br>
+
+### Blockchain & Web3
+
+<img src="https://skillicons.dev/icons?i=solidity" />
+
+<br><br>
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge)
+![BNB Smart Chain](https://img.shields.io/badge/BNB_Smart_Chain-F3BA2F?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge)
+![TRON](https://img.shields.io/badge/TRON-FF060A?style=for-the-badge)
+
+<br><br>
+
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge)
+![ERC20](https://img.shields.io/badge/ERC--20-555555?style=for-the-badge)
+![ERC721](https://img.shields.io/badge/ERC--721-555555?style=for-the-badge)
 
 <br><br>
 
@@ -114,6 +150,6 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 <div align="center">
 
-### Building production-ready AI applications, full stack platforms, and blockchain solutions.
+### Building production-ready AI applications, scalable full stack systems, and blockchain solutions.
 
 </div>

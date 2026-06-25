@@ -2,19 +2,15 @@
 
 # Building AI Applications, Full Stack Platforms & Blockchain Systems
 
-### Full Stack & AI Developer • 7+ Years of Professional Experience
+### Full Stack & AI Developer • 7+ Years Experience
 
-[![Email](https://img.shields.io/badge/Contact-clever.tom926%40gmail.com-blue?style=for-the-badge\&logo=gmail)](mailto:clever.tom926@gmail.com)
-
-<br>
-
-AI • Full Stack • Web3 • Cloud Infrastructure
+[![Email](https://img.shields.io/badge/Contact-clever.tom926%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:clever.tom926@gmail.com)
 
 </div>
 
 ---
 
-## Professional Summary
+## About Me
 
 Full Stack and AI Developer with 7+ years of experience building scalable web applications, AI-powered tools, and blockchain systems from concept to production.
 
@@ -24,7 +20,7 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 ---
 
-# Areas of Expertise
+## Areas of Expertise
 
 <table>
 <tr>
@@ -32,13 +28,13 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 ### 🤖 AI & LLM
 
-* OpenAI API
-* LangChain
-* Prompt Engineering
-* AI Chatbots
-* RAG Pipelines
-* LLM Integration
-* Vector Databases
+- OpenAI API
+- LangChain
+- Prompt Engineering
+- AI Chatbots
+- RAG Pipelines
+- LLM Integration
+- Vector Databases
 
 </td>
 
@@ -46,13 +42,13 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 ### 🌐 Full Stack
 
-* React
-* Next.js
-* TypeScript
-* Node.js
-* GraphQL
-* REST APIs
-* Microservices
+- React
+- Next.js
+- TypeScript
+- Node.js
+- GraphQL
+- REST APIs
+- Microservices
 
 </td>
 
@@ -60,13 +56,13 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 ### ⛓ Blockchain
 
-* Solidity
-* Ethereum
-* Ethers.js
-* Web3.js
-* IPFS
-* DeFi
-* NFTs
+- Solidity
+- Ethereum
+- Ethers.js
+- Web3.js
+- IPFS
+- DeFi
+- NFT
 
 </td>
 </tr>
@@ -74,94 +70,45 @@ Specialized in LLM-powered applications, OpenAI API integrations, smart contract
 
 ---
 
-# Technical Ecosystem
+## Technology Stack
+
+<div align="center">
 
 ### Languages
 
-`JavaScript` • `TypeScript` • `Python` • `Solidity` • `Rust` • `Go` • `PHP` • `C#` • `Java` • `C/C++`
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,php,java,cs,cpp" />
+
+<br><br>
 
 ### Frontend
 
-`React.js` • `Next.js` • `SolidJS` • `Vue` • `Angular` • `React Native` • `Redux` • `Tailwind CSS` • `MUI` • `Framer Motion` • `Vite`
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind" />
+
+<br><br>
 
 ### Backend
 
-`Node.js` • `Express` • `Flask` • `Laravel` • `CodeIgniter` • `REST APIs` • `GraphQL` • `Socket.io`
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" />
+
+<br><br>
 
 ### Blockchain
 
-`Ethereum` • `Solidity` • `Hardhat` • `Web3.js` • `Ethers.js` • `IPFS` • `ERC-20` • `ERC-721` • `Polygon`
+<img src="https://skillicons.dev/icons?i=ethereum" />
+
+<br><br>
 
 ### Databases
 
-`MongoDB` • `PostgreSQL` • `MySQL` • `SQLite` • `Prisma ORM`
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
 
-### DevOps & Cloud
+<br><br>
 
-`Docker` • `Kubernetes (AKS)` • `AWS` • `Azure` • `GitHub Actions` • `CI/CD` • `Postman`
+### Cloud & DevOps
 
----
-
-# Career Highlights
-
-### AI Applications
-
-* Built AI-powered Telegram bots with cryptocurrency swap functionality
-* Integrated OpenAI APIs for natural language interactions
-* Developed AI chat applications with real-time streaming responses
-* Delivered AI-powered solutions for startup clients
-
-### Full Stack Engineering
-
-* Designed and developed full-stack web applications from scratch
-* Built scalable frontend and backend architectures
-* Improved backend throughput through asynchronous API optimization
-* Modernized legacy applications using TypeScript
-
-### Blockchain Development
-
-* Developed smart contracts using Solidity
-* Built blockchain-based archival systems with Ethereum and IPFS
-* Created NFT solutions on Polygon using ERC-721 standards
-* Integrated wallet functionality using MetaMask and WalletConnect
-
-### Cloud & Infrastructure
-
-* Containerized backend services using Docker
-* Deployed applications to Azure Kubernetes Service (AKS)
-* Implemented CI/CD pipelines
-* Optimized backend infrastructure and socket connections
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tom235689&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom235689&layout=compact&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,git" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tom235689&hide_border=true" />
-
-</div>
-
----
-
-# Professional Experience Timeline
-
-| Period         | Position                          |
-| -------------- | --------------------------------- |
-| 2024 – Present | Senior Full Stack & AI Developer  |
-| 2022 – 2023    | Senior Full Stack Developer       |
-| 2019 – 2021    | Full Stack & Blockchain Developer |
-| 2018 – 2019    | Full Stack Developer              |
 
 ---
 

@@ -77,16 +77,6 @@ Cloud & DevOps
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 ## ⚡ Current Interests
 
 * Artificial Intelligence & Autonomous Agents
